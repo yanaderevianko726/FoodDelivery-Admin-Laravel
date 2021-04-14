@@ -1,0 +1,9 @@
+<!-- $FIELD_NAME_TITLE$ Field -->
+<div class="form-group row ">
+  {!! Form::label('$FIELD_NAME$', trans("lang.$MODEL_NAME_SNAKE$_$FIELD_NAME$"),['class' => 'col-3 control-label text-right']) !!}
+  {!! Form::hidden('$FIELD_NAME$', 0, ['id'=>"hidden_$FIELD_NAME$"]) !!}
+  <div class="col-9 icheck-{{setting('theme_color')}}">
+    {!! Form::checkbox('$FIELD_NAME$', 1, null) !!}
+    <label for="'$FIELD_NAME$'"></label>
+  </div>
+</div>
