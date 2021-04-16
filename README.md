@@ -18,9 +18,11 @@ Open http://yourdomain.com/public/install.
 Click "Check requirements" after that.
 Change the permission of the following folders to 775.
 
-storage/framework.
-storage/logs.
-bootstrap/cache.
+storage/framework
+
+storage/logs
+
+bootstrap/cache
 
 Use the same credentials of your database created in your domain.
 
