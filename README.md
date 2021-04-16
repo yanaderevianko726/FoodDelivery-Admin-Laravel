@@ -4,14 +4,6 @@ Launch your own grocery, food, pharmacy, store delivery app with a complete dash
 
 ## Screenshot
 
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_1.png)   | ![screenshot](screens/screen_3.png)     |
-
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_4.png)   | ![screenshot](screens/screen_5.png)     |
-
-|                Screenshot               | Screenshot |
-|:---------------------------------------:|:-------------------------------------:|
-| ![screenshot](screens/screen_2.png)   | ![screenshot](screens/screen_6.png)     |
+[screenshot](screens/screen_1.png)   
+[screenshot](screens/screen_2.png)   
+[screenshot](screens/screen_3.png)   
