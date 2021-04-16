@@ -14,9 +14,9 @@ Go to MySQL Databases to create a new database, for example, multi_restaurants a
 #### Installation Wizard
 Check Requirements
 Open http://yourdomain.com/public/install.
-Click "Check requirements" after that.
 
-Change the permission of the following folders to 775
+Click "Check requirements" after that.
+Change the permission of the following folders to 775.
 
 storage/framework
 storage/logs
